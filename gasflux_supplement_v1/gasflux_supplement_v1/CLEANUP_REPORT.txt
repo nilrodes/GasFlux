@@ -1,0 +1,7 @@
+PASS: no known personal absolute paths found in notebooks, config, or environment file.
+
+Notes:
+- Notebook outputs and execution counts were cleared.
+- Network-dependent GeoJSON smoke test was removed.
+- GasFlux export no longer writes beside the raw file and no longer uses hardcoded fallback scientific results.
+- Full numerical execution was not possible because research input data were not provided.

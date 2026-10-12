@@ -1,0 +1,14 @@
+name: gasflux
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - echopype=0.11.1
+  - numpy
+  - pandas
+  - xarray
+  - matplotlib
+  - scipy
+  - openpyxl
+  - ipykernel
+  - jupyterlab
